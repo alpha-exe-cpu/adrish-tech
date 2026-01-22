@@ -1,0 +1,1 @@
+import{r as o,j as s}from"./chunk-jDe0ovj0.js";import{g as n}from"./chunk-C2Am3Zgo.js";const p="h1",f=o.forwardRef(({tag:e,...r},a)=>{const t=n(r)??e??p;return o.createElement(t,{...r,ref:a})});f.displayName="Heading";const m=o.forwardRef(({children:e,...r},a)=>s.jsx("p",{...r,ref:a,children:e}));m.displayName="Paragraph";export{f as d,m as f};
